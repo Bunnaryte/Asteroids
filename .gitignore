@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -219,3 +220,6 @@ game_state.jsonl
 # Virtual environments
 .venv
 >>>>>>> dca76cf (0.01 Init)
+=======
+game_state.jsonl
+>>>>>>> 7f164b5 (B: added black screen and closing window closes program)
